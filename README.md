@@ -36,11 +36,9 @@ Your assignment goal is to operationalize this working, machine learning microse
 
 #### Include Dockerfile, Run in Docker
 
-#### Run in Kubernetes: 
-
-### Verify that application is running
-
 ### Upload to Docker Hub
+
+#### Include bash/shell script(Steps taken for kubernetes), Run in Kubernetes
 
 ### Kubernetes Steps
 
@@ -54,4 +52,8 @@ Your assignment goal is to operationalize this working, machine learning microse
 * Add additional packages inside requirements.txt if there are any.
 * Kubernetes Clean Up steps
 
-# Git commit is mendatory,make your repository publicly available. without this submission will not be entertained.
+
+### Verify that application is running, include screenshot of running application while sending the submission
+
+
+# Git commit is mendatory, kindly make your repository publicly available, readme is updated with the flow/changes in your submission. without it any submission will not be entertained.
