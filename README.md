@@ -57,4 +57,4 @@ Your assignment goal is to operationalize this working, machine learning microse
 
 
 # Git commit is mendatory, kindly make your repository publicly available.
-# Please include your updated readme is updated with the flow/changes in your submission. without it any submission will not be entertained.
+# Please include your updated readme with the flow/changes in your submission. without it any submission will not be entertained.
