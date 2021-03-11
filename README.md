@@ -56,4 +56,5 @@ Your assignment goal is to operationalize this working, machine learning microse
 ### Verify that application is running, include screenshot of running application while sending the submission
 
 
-# Git commit is mendatory, kindly make your repository publicly available, readme is updated with the flow/changes in your submission. without it any submission will not be entertained.
+# Git commit is mendatory, kindly make your repository publicly available, readme is updated with the flow/changes in your submission. 
+# without it any submission will not be entertained.
